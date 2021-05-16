@@ -13,5 +13,6 @@ public class StringTes1 {
         System.out.println("master commit test");
 
         System.out.println("hot-fix test");
+        System.out.println("push commit test");
     }
 }
